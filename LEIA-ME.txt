@@ -1,0 +1,34 @@
+IDIOMAFELIX - SITE DE ESTUDOS DE IDIOMAS
+
+COMO ABRIR
+1. Extraia o ZIP completo (nao abra o HTML de dentro do ZIP).
+2. Abra index.html no Google Chrome.
+3. Mantenha as pastas css, js e imagens ao lado dos arquivos HTML.
+
+PAGINAS
+index.html -> pagina inicial
+cursos.html -> cursos de Ingles, Frances e Espanhol
+ingles.html, frances.html, espanhol.html -> paginas dos idiomas
+aula.html -> 3 aulas de exemplo por idioma
+exercicios.html -> quizzes interativos com correcao
+vocabulario.html -> cartoes de memorizacao e busca
+progresso.html -> progresso salvo no navegador
+
+PUBLICACAO NO GITHUB PAGES
+1. Crie um repositorio novo para IdiomaFelix, separado do InfoFelix.
+2. Envie o CONTEUDO da pasta (arquivos HTML e pastas css, js, imagens), nao o ZIP.
+3. Em Settings > Pages, configure Deploy from a branch, branch main, pasta root.
+4. Acesse a URL publica indicada pelo GitHub.
+
+AVISOS
+- As aulas e quizzes sao exemplos funcionais, nao cursos completos.
+- A conclusao de aulas fica em localStorage no navegador, sem conta nem sincronizacao na nuvem.
+- Todos os links de navegacao internos funcionam sem servidor.
+- Fotografias decorativas foram recortadas da arte conceitual criada para este projeto.
+- Fonte Inter e carregada opcionalmente do Google Fonts; offline o site usa fontes do sistema.
+- Para gerenciamento pelo Pages CMS sera necessario configurar os arquivos de conteudo e painel em uma proxima fase.
+
+
+VERSÃO 2: VISUAL COM CORES MAIS VIVAS
+Se já tiver a Versão 1 publicada, substitua apenas css/style.css para atualizar as cores.
+Para uma instalação nova, envie o pacote completo extraído preservando as pastas.
